@@ -1,0 +1,24 @@
+.apropos {
+    h1 {
+        text-align: center;
+        color: var(--veryLightRed);
+        text-decoration: underline;
+    }
+    p {
+        text-align: center;
+    }
+    #secondP {
+        display: none;
+    }
+    .seenSecondP {
+        display: block !important;
+    }
+}
+
+@media (min-width: 426px) {
+    .apropos {
+        p {
+            margin: auto 1rem;
+        }
+    }
+}

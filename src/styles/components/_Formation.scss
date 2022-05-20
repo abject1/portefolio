@@ -1,0 +1,248 @@
+.formation {
+    background-color: var(--grey100);
+    border-radius: 10px;
+    h1 {
+        text-align: center;
+        margin: 0.4rem auto 0 auto;
+    }
+    .bacproElec {
+        h3 {
+            color: var(--veryLightRed);
+            text-align: center;
+            text-decoration: underline;
+        }
+        h4 {
+            margin: 0;
+        }
+        h6 {
+            color: var(--veryLightPurple);
+            margin: 0;
+        }
+        p {
+            text-align: center;
+        }
+    }
+    .bacproTMSEC {
+        h3 {
+            color: var(--veryLightRed);
+            text-align: center;
+            text-decoration: underline;
+        }
+        h4 {
+            margin: 0;
+        }
+        h6 {
+            color: var(--veryLightPurple);
+            margin: 0;
+        }
+        p {
+            text-align: center;
+        }
+    }
+    .dymaHTMLCSS {
+        h3 {
+            color: var(--veryLightRed);
+            text-align: center;
+            text-decoration: underline;
+        }
+        h4 {
+            margin: 0;
+        }
+        h6 {
+            color: var(--veryLightPurple);
+            margin: 0;
+        }
+        p {
+            text-align: center;
+        }
+    }
+    .nextSuite {
+        display: block !important;
+    }
+    .next {
+        display: none;
+        .dymaJS {
+            h3 {
+                color: var(--veryLightRed);
+                text-align: center;
+                text-decoration: underline;
+            }
+            h4 {
+                margin: 0;
+            }
+            h6 {
+                color: var(--veryLightPurple);
+                margin: 0;
+            }
+            p {
+                text-align: center;
+            }
+        }
+        .Academy {
+            h3 {
+                color: var(--veryLightRed);
+                text-align: center;
+                text-decoration: underline;
+            }
+            h4 {
+                margin: 0;
+            }
+            h6 {
+                color: var(--veryLightPurple);
+                margin: 0;
+            }
+            p {
+                text-align: center;
+            }
+        }
+        .dymaLinuxBash {
+            h3 {
+                color: var(--veryLightRed);
+                text-align: center;
+                text-decoration: underline;
+            }
+            h4 {
+                margin: 0;
+            }
+            h6 {
+                color: var(--veryLightPurple);
+                margin: 0;
+            }
+            p {
+                text-align: center;
+            }
+        }
+        .udemyDevenirDeveloppeur {
+            h3 {
+                color: var(--veryLightRed);
+                text-align: center;
+                text-decoration: underline;
+            }
+            h4 {
+                margin: 0;
+            }
+            h6 {
+                color: var(--veryLightPurple);
+                margin: 0;
+            }
+            p {
+                text-align: center;
+            }
+        }
+        .dymaGit {
+            h3 {
+                color: var(--veryLightRed);
+                text-align: center;
+                text-decoration: underline;
+            }
+            h4 {
+                margin: 0;
+            }
+            h6 {
+                color: var(--veryLightPurple);
+                margin: 0;
+            }
+            p {
+                text-align: center;
+            }
+        }
+        .fromScratch {
+            h3 {
+                color: var(--veryLightRed);
+                text-align: center;
+                text-decoration: underline;
+            }
+            h4 {
+                margin: 0;
+            }
+            h6 {
+                color: var(--veryLightPurple);
+                margin: 0;
+            }
+            p {
+                text-align: center;
+            }
+        }
+    }
+    
+}
+
+@media (min-width: 426px) {
+    .formation {
+        .bacproElec {
+            h4 {
+                margin-left: 0.4rem;
+            }
+            h6 {
+                margin-left: 0.4rem;
+            }
+        }
+        .bacproTMSEC {
+            h4 {
+                margin-left: 0.4rem;
+            }
+            h6 {
+                margin-left: 0.4rem;
+            }
+        }
+        .dymaHTMLCSS {
+            h4 {
+                margin-left: 0.4rem;
+            }
+            h6 {
+                margin-left: 0.4rem;
+            }
+        }
+        .next {
+            .dymaJS {
+                h4 {
+                    margin-left: 0.4rem;
+                }
+                h6 {
+                    margin-left: 0.4rem;
+                }
+            }
+            .Academy {
+                h4 {
+                    margin-left: 0.4rem;
+                }
+                h6 {
+                    margin-left: 0.4rem;
+                }
+            }
+            .dymaLinuxBash {
+                h4 {
+                    margin-left: 0.4rem;
+                }
+                h6 {
+                    margin-left: 0.4rem;
+                }
+            }
+            .udemyDevenirDeveloppeur {
+                h4 {
+                    margin-left: 0.4rem;
+                }
+                h6 {
+                    margin-left: 0.4rem;
+                }
+            }
+            .dymaGit {
+                h4 {
+                    margin-left: 0.4rem;
+                }
+                h6 {
+                    margin-left: 0.4rem;
+                }
+            }
+            .fromScratch {
+                h4 {
+                    margin-left: 0.4rem;
+                }
+                h6 {
+                    margin-left: 0.4rem;
+                }
+            }
+        }
+
+    }
+}

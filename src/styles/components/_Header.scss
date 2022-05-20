@@ -1,0 +1,46 @@
+.header {
+    .upHeader {
+        border: 1.5px solid var(--darkBlue);
+        border-radius: var(--borderRadiusClassic);
+        h1 {
+            text-align: center;
+            color: var(--lightBlue);
+        }
+        h2 {
+            text-align: center;
+            color: var(--lightBlue);
+        }
+    }
+    img {
+        display: block;
+        width: 40%;
+        border-radius: 70px;
+        margin: 0.4rem auto;
+    }
+
+}
+
+@media (min-width: 426px) {
+    .header {
+        img {
+            width: 22%;
+        }
+    }
+
+}
+
+@media (min-width: 769px) {
+    .header {
+        img {
+            width: 20%;
+        }
+    }
+}
+
+@media (min-width: 1025px) {
+    .header {
+        img {
+            width: 18%;
+        }
+    }
+}

@@ -1,0 +1,97 @@
+.hobbies {
+    background-color: var(--grey100);
+    border-radius: 10px;
+    h1 {
+        text-align: center;
+        margin: 0.4rem auto 0 auto;
+    }
+    .moto {
+        h2 {
+            color: var(--veryLightRed);
+            text-align: center;
+            text-decoration: underline;
+        }
+        p {
+            text-align: center;
+        }
+    }
+    .maquette {
+        h2 {
+            color: var(--veryLightRed);
+            text-align: center;
+            text-decoration: underline;
+        }
+        p {
+            text-align: center;
+        }
+    }
+    .jeux {
+        h2 {
+            color: var(--veryLightRed);
+            text-align: center;
+            text-decoration: underline;
+        }
+        p {
+            text-align: center;
+        } 
+    }
+    #nextHobbies {
+        display: none;
+        .microConception {
+            h2 {
+                color: var(--veryLightRed);
+                text-align: center;
+                text-decoration: underline;
+            }
+            p {
+                text-align: center;
+            } 
+        }
+        .developpement {
+            h2 {
+                color: var(--veryLightRed);
+                text-align: center;
+                text-decoration: underline;
+            }
+            p {
+                text-align: center;
+            } 
+        }
+    }
+    .seenNextHobbies {
+        display: block !important;
+    }
+
+}
+
+@media (min-width: 426px) {
+    .hobbies {
+        .moto {
+            p {
+                margin: auto 0.6rem;
+            }
+        }
+        .maquette {
+            p {
+                margin: auto 0.6rem;
+            }
+        }
+        .jeux {
+            p {
+                margin: auto 0.6rem;
+            }
+        }
+        #nextHobbies {
+            .microConception {
+                p {
+                    margin: auto 0.6rem;
+                }
+            }
+            .developpement {
+                p {
+                    margin: auto 0.6rem;
+                }
+            }
+        }
+    }
+}

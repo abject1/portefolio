@@ -1,0 +1,291 @@
+.competences {
+    background-color: var(--grey100);
+    border-radius: 10px;
+    h1 {
+        text-align: center;
+        color: var(--veryLightRed);
+        text-align: center;
+        text-decoration: underline;
+    }
+    .htmlCss {
+        h2 {
+            text-align: center;
+            margin: 0;
+        }
+        .barSkill {
+            margin: 0.4rem auto;
+            height: 5px;
+            background: var(--white);
+            position: relative;
+            max-width: 90vw;
+            .barSkillProgressHtml {
+                position: absolute;
+                height: 5px;
+                top: 0;
+                left: 0;
+                width: 95%;
+                background: var(--grey300);
+            }
+            .barSkillDotHtml {
+                position: absolute;
+                height: 10px;
+                width: 10px;
+                background: var(--black);
+                left: calc(95% - 5px);
+                top: -2.5px;
+                transform: rotate(45deg);
+            }
+        }
+
+    }
+    .js {
+        h2 {
+            text-align: center;
+            margin: 0;
+        }
+        .barSkill {
+            margin: 0.4rem auto;
+            height: 5px;
+            background: var(--white);
+            position: relative;
+            max-width: 90vw;
+            .barSkillProgressJs {
+                position: absolute;
+                height: 5px;
+                top: 0;
+                left: 0;
+                width: 65%;
+                background: var(--grey300);
+            }
+            .barSkillDotJs {
+                position: absolute;
+                height: 10px;
+                width: 10px;
+                background: var(--black);
+                left: calc(65% - 5px);
+                top: -2.5px;
+                transform: rotate(45deg);
+            }
+        }
+
+    }
+    .react {
+        h2 {
+            text-align: center;
+            margin: 0;
+        }
+        .barSkill {
+            margin: 0.4rem auto;
+            height: 5px;
+            background: var(--white);
+            position: relative;
+            max-width: 90vw;
+            .barSkillProgressReact {
+                position: absolute;
+                height: 5px;
+                top: 0;
+                left: 0;
+                width: 40%;
+                background: var(--grey300);
+            }
+            .barSkillDotReact {
+                position: absolute;
+                height: 10px;
+                width: 10px;
+                background: var(--black);
+                left: calc(40% - 5px);
+                top: -2.5px;
+                transform: rotate(45deg);
+            }
+        }
+
+    }
+    .lua {
+        h2 {
+            text-align: center;
+            margin: 0;
+        }
+        .barSkill {
+            margin: 0.4rem auto;
+            height: 5px;
+            background: var(--white);
+            position: relative;
+            max-width: 90vw;
+            .barSkillProgressLua {
+                position: absolute;
+                height: 5px;
+                top: 0;
+                left: 0;
+                width: 80%;
+                background: var(--grey300);
+            }
+            .barSkillDotLua {
+                position: absolute;
+                height: 10px;
+                width: 10px;
+                background: var(--black);
+                left: calc(80% - 5px);
+                top: -2.5px;
+                transform: rotate(45deg);
+            }
+        }
+
+    }
+    .git {
+        h2 {
+            text-align: center;
+            margin: 0;
+        }
+        .barSkill {
+            margin: 0.4rem auto;
+            height: 5px;
+            background: var(--white);
+            position: relative;
+            max-width: 90vw;
+            .barSkillProgressGit {
+                position: absolute;
+                height: 5px;
+                top: 0;
+                left: 0;
+                width: 40%;
+                background: var(--grey300);
+            }
+            .barSkillDotGit {
+                position: absolute;
+                height: 10px;
+                width: 10px;
+                background: var(--black);
+                left: calc(40% - 5px);
+                top: -2.5px;
+                transform: rotate(45deg);
+            }
+        }
+
+    }
+    .SQL {
+        h2 {
+            text-align: center;
+            margin: 0;
+        }
+        .barSkill {
+            margin: 0.4rem auto;
+            height: 5px;
+            background: var(--white);
+            position: relative;
+            max-width: 90vw;
+            .barSkillProgressSql {
+                position: absolute;
+                height: 5px;
+                top: 0;
+                left: 0;
+                width: 40%;
+                background: var(--grey300);
+            }
+            .barSkillDotSql {
+                position: absolute;
+                height: 10px;
+                width: 10px;
+                background: var(--black);
+                left: calc(40% - 5px);
+                top: -2.5px;
+                transform: rotate(45deg);
+            }
+        }
+
+    }
+    .php {
+        h2 {
+            text-align: center;
+            margin: 0;
+        }
+        .barSkill {
+            margin: 0.4rem auto;
+            height: 5px;
+            background: var(--white);
+            position: relative;
+            max-width: 90vw;
+            .barSkillProgressPhp {
+                position: absolute;
+                height: 5px;
+                top: 0;
+                left: 0;
+                width: 15%;
+                background: var(--grey300);
+            }
+            .barSkillDotPhp {
+                position: absolute;
+                height: 10px;
+                width: 10px;
+                background: var(--black);
+                left: calc(15% - 5px);
+                top: -2.5px;
+                transform: rotate(45deg);
+            }
+        }
+
+    }
+    .linux {
+        h2 {
+            text-align: center;
+            margin: 0;
+        }
+        .barSkill {
+            margin: 0.4rem auto;
+            height: 5px;
+            background: var(--white);
+            position: relative;
+            max-width: 90vw;
+            .barSkillProgressLinux {
+                position: absolute;
+                height: 5px;
+                top: 0;
+                left: 0;
+                width: 48%;
+                background: var(--grey300);
+            }
+            .barSkillDotLinux {
+                position: absolute;
+                height: 10px;
+                width: 10px;
+                background: var(--black);
+                left: calc(48% - 5px);
+                top: -2.5px;
+                transform: rotate(45deg);
+            }
+        }
+
+    }
+    .vscode {
+        padding-bottom: 0.4rem;
+        margin-bottom: 0.8rem;
+        h2 {
+            text-align: center;
+            margin: 0;
+        }
+        .barSkill {
+            margin: 0.4rem auto;
+            height: 5px;
+            background: var(--white);
+            position: relative;
+            max-width: 90vw;
+            .barSkillProgressVscode {
+                position: absolute;
+                height: 5px;
+                top: 0;
+                left: 0;
+                width: 85%;
+                background: var(--grey300);
+            }
+            .barSkillDotVscode {
+                position: absolute;
+                height: 10px;
+                width: 10px;
+                background: var(--black);
+                left: calc(85% - 5px);
+                top: -2.5px;
+                transform: rotate(45deg);
+            }
+        }
+
+    }
+}

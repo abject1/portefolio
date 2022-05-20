@@ -1,2 +1,1 @@
-# portefolio
-Mon portefolio que vous pouvais retrouver ici "http://lucas-wurtz-cv.netlify.app"
+CV & portefolio en ligne de Lucas Wurtz alias Abject

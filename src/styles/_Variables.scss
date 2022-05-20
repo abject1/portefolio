@@ -1,0 +1,53 @@
+/* Variables */
+
+:root {
+    /* FONT */
+    @font-face {
+        font-family: "font-1";
+        src: url(../assets/fonts/roboto.ttf);
+    }
+    @font-face {
+        font-family: "font-2";
+        src: url(../assets/fonts/mincho.ttf);
+    }
+
+    /* TITLE */
+    --title-font: 'font-2', sans-serif;
+    --body-font: 'font-1', sans-serif;
+
+    /* FONT-SIZE */
+    --font-size-small: 0.4rem;
+    --font-size-normal: 0.8rem;
+    --font-size-big: 1rem;
+
+    /* COLORS */
+
+    --white: #fff;
+    --black: #000;
+    --veryLightRed: #912c2c;
+    --lightRed: #FF4F4F;
+    --darkRed: #FF0000;
+    --veryLightPurple: #935499;
+    --lightPurple: #F045FE;
+    --darkPurple: #EC00FF;
+    --lightBlue: #5D4AF7;
+    --darkBlue: #1B00FF;
+    // --titleColor: #523a09d1;
+
+    /* GREY */
+    --grey50: #DCDCDC;
+    --grey100: #C0C0C0;
+    --grey200: #A5A5A5;
+    --grey300: #909090;
+    --grey400: #747474;
+
+    /* COLORS SPECIAL */ 
+    --background-color: #FCFAF3;
+    --navBar-color: #FADFA0;
+    --facebook-color: #3b5998;
+    --discord-color: #7289da;
+
+    /* BORDER */
+    --borderClassicBlack: 2px var(--black) solid;
+    --borderRadiusClassic: 20px;
+}

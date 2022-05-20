@@ -1,0 +1,187 @@
+.professionel {
+    background-color: var(--grey50);
+    border-radius: 10px;
+    h1 {
+        text-align: center;
+        margin: 0.4rem auto 0 auto;
+    }
+    .boehliApprentis {
+        h3 {
+            text-align: center;
+            text-decoration: underline;
+            color: var(--veryLightRed);
+        }
+        h4 {
+            margin: 0;
+        }
+        p {
+            text-align: center;
+        }
+        #nextBoehliApp {
+            display: none;
+        }
+        .seenNextBoehliApp {
+            display: block !important;
+        }
+    }
+    .geodis {
+        h3 {
+            text-align: center;
+            text-decoration: underline;
+            color: var(--veryLightRed);
+        }
+        h4 {
+            margin: 0;
+        }
+        p {
+            text-align: center;
+        }
+    }
+    .boehliProd {
+        h3 {
+            text-align: center;
+            text-decoration: underline;
+            color: var(--veryLightRed);
+        }
+        h4 {
+            margin: 0;
+        }
+        p {
+            text-align: center;
+        }
+    }
+    #nextSeenExpPro {
+        display: none;
+        .alpi {
+            h3 {
+                text-align: center;
+                text-decoration: underline;
+                color: var(--veryLightRed);
+            }
+            h4 {
+                margin: 0;
+            }
+            p {
+                text-align: center;
+            }
+        }
+        .froidVeltz {
+            h3 {
+                text-align: center;
+                text-decoration: underline;
+                color: var(--veryLightRed);
+            }
+            h4 {
+                margin: 0;
+            }
+            p {
+                text-align: center;
+            }
+        }
+        .ibag {
+            h3 {
+                text-align: center;
+                text-decoration: underline;
+                color: var(--veryLightRed);
+            }
+            h4 {
+                margin: 0;
+            }
+            p {
+                text-align: center;
+            }
+            #nextIbag {
+                display: none;
+            }
+            .seenIbag {
+                display: block !important;
+            }
+        }
+        .oneforall {
+            h3 {
+                text-align: center;
+                text-decoration: underline;
+                color: var(--veryLightRed);
+            }
+            h4 {
+                margin: 0;
+            }
+            p {
+                text-align: center;
+            }
+            #nextOneforAll {
+                display: none;
+            }
+            .seenNextOneforAll {
+                display: block !important;
+            }
+        }
+    }
+    .seenNextExpPro {
+        display: block !important;
+    }
+}
+
+@media (min-width: 426px) {
+    .professionel {
+        .boehliApprentis {
+            h4 {
+                margin-left: 0.6rem;
+            }
+            p {
+                margin: auto 0.6rem;
+            }
+        }
+        .geodis {
+            h4 {
+                margin-left: 0.6rem;
+            }
+            p {
+                margin: auto 0.6rem;
+            }
+        }
+        .boehliProd {
+            h4 {
+                margin-left: 0.6rem;
+            }
+            p {
+                margin: auto 0.6rem;
+            }
+        }
+        #nextSeenExpPro {
+            .alpi {
+                h4 {
+                    margin-left: 0.6rem;
+                }
+                p {
+                    margin: auto 0.6rem;
+                }
+            }
+            .froidVeltz {
+                h4 {
+                    margin-left: 0.6rem;
+                }
+                p {
+                    margin: auto 0.6rem;
+                }
+            }
+            .ibag {
+                h4 {
+                    margin-left: 0.6rem;
+                }
+                p {
+                    margin: auto 0.6rem;
+                }
+            }
+            .oneforall {
+                h4 {
+                    margin-left: 0.6rem;
+                }
+                p {
+                    margin: auto 0.6rem;
+                }
+            }
+        }
+
+    }
+}

@@ -1,0 +1,98 @@
+.contact {
+    background-color: var(--grey50);
+    border-radius: 10px;
+    h1 {
+        text-align: center;
+        margin-bottom: 0;
+    }
+    .reseaux {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        grid-template-areas: 
+        'title title'
+        'twitter linkedin'
+        'github discord'
+        ;
+        h2 {
+            grid-area: title;
+            text-align: center;
+            text-decoration: underline;
+            color: var(--veryLightRed);
+        }
+        .twitter {
+            grid-area: twitter;
+            h4 {
+                a {
+                    text-align: center;
+                    display: block;
+                    img {
+                        width: 8%;
+                    }
+                }
+            }
+        }
+        .linkedin {
+            grid-area: linkedin;
+            h4 {
+                a {
+                    text-align: center;
+                    display: block;
+                    img {
+                        width: 8%;
+                    }
+                }
+            }
+        }
+        .github {
+            grid-area: github;
+            h4 {
+                a {
+                    text-align: center;
+                    display: block;
+                    img {
+                        width: 8%;
+                    }
+                }
+            }
+        }
+        .discord {
+            grid-area: discord;
+            h4 {
+                a {
+                    text-align: center;
+                    display: block;
+                    img {
+                        width: 8%;
+                    }
+                }
+            }
+        }
+    }
+    .formulaire {
+        h2 {
+            text-align: center;
+            text-decoration: underline;
+            color: var(--veryLightRed);
+        }
+        input {
+            border: 1px solid var(--veryLightPurple);
+            border-radius: 4px;
+            background-color: var(--grey100);
+            color: var(--black);
+            text-align: center;
+            margin: 0.3rem auto;
+            display: block;
+        }
+        textarea {
+            border: 1px solid var(--veryLightPurple);
+            border-radius: 4px;
+            background-color: var(--grey100);
+            color: var(--black);
+            text-align: center;
+            margin: 0.3rem auto;
+            display: block;
+        }
+
+    }
+}

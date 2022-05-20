@@ -1,0 +1,12 @@
+.carousel {
+    .click-here {
+        color: var(--lightRed);
+        text-decoration: underline;
+    }
+}
+
+@media (min-width: 1025px) {
+    .carousel-root {
+        height: 1800px;
+    }
+}
