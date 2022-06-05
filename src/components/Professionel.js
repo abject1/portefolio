@@ -22,7 +22,6 @@ const Professionel = () => {
   return (
     <div className="professionel">
       <h1>Mon expérience professionel</h1>
-      <div className="underlineTitleProfessionel"></div>
       <div className="boehliApprentis">
         <h3>Boehli | Apprentis technicien de maintenance</h3>
         <h4>2015-2018</h4>

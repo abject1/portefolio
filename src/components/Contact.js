@@ -3,8 +3,6 @@ import React from "react";
 const Contact = () => {
   return (
     <div className="contact">
-      <h1>Me contacter</h1>
-      <div className="underlineContactTitle"></div>
       <div className="reseaux">
         <h2>Mes reseaux sociaux</h2>
         <div className="twitter">

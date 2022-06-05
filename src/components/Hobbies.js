@@ -6,8 +6,7 @@ const Hobbies = () => {
   };
   return (
     <div className="hobbies">
-      <h1>Mes hobbies | passions</h1>
-      <div className="underlineHobbiesTitle"></div>
+      <h1>Mes hobbies & passions</h1>
       <div className="moto">
         <h2>La moto</h2>
         <p>

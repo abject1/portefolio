@@ -1,9 +1,12 @@
 .hobbies {
     background-color: var(--grey100);
     border-radius: 10px;
+    padding: 1rem 1rem;
+    margin: 0 0.6rem;
     h1 {
         text-align: center;
-        margin: 0.4rem auto 0 auto;
+        color: var(--veryLightRed);
+        text-decoration: underline;
     }
     .moto {
         h2 {

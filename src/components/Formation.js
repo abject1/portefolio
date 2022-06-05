@@ -7,7 +7,6 @@ const Formation = () => {
   return (
     <div className="formation">
       <h1>Mes Formations</h1>
-      <div className="underlineTitleFormation"></div>
       <div className="bacproElec">
         <h3>BAC PRO Electrotechnique</h3>
         <h4>2015-2018</h4>
