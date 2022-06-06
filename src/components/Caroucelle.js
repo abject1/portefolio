@@ -53,12 +53,13 @@ const Caroucelle = () => {
       {datas.map((slide) => (
         <div key={slide.id} className="carousel">
           <a href={slide.link} target="_blank" rel="noreferrer">
-            <img src={slide.image} alt={slide.title} />
-            <div>
+          <div>
               <h2>{slide.title}</h2>
               <p>{slide.text}</p>
               <p className="click-here">Click Ici pour voir le projet</p>
             </div>
+            <img src={slide.image} alt={slide.title} />
+
           </a>
         </div>
       ))}

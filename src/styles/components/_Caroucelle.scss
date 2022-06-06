@@ -1,4 +1,8 @@
 .carousel {
+    a:hover {
+        font-size: 13px;
+        color: var(--black);
+    }
     .click-here {
         color: var(--lightRed);
         text-decoration: underline;
