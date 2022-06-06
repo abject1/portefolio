@@ -16,14 +16,14 @@ const Caroucelle = () => {
       id: 2,
       image: `${baseUrl}landing-page-one4all.PNG`,
       title: "Landing page One4All",
-      text: `Landing page que j'ai réaliser pour intégrer l'équipe One4All`,
+      text: `Landing page que j'ai réalisé pour intégrer l'équipe One4All`,
       link: "https://one4all-landingpage.netlify.app",
     },
     {
       id: 3,
       image: `${baseUrl}ledor.PNG`,
       title: "Agence Immo Ledor",
-      text: `Site web d'une agence Immo fictive réaliser ne live Twitch`,
+      text: `Site web d'une agence Immo fictive réaliser en live Twitch`,
       link: "https://ledor-v1.netlify.app",
     },
     {

@@ -26,11 +26,11 @@ const Professionel = () => {
         <h3>Boehli | Apprentis technicien de maintenance</h3>
         <h4>2015-2018</h4>
         <p>
-          Une première expérience professionel en temps que apprentis technicien
+          Une première expérience professionel en temps qu'apprentis technicien
           de maintenance pendant que j'ai réaliser mon BAC PRO Electrotechnique.
           Une expérience qui ma permis d'apprendre a travailler en équipe mais
           également a travailler en autonomie. J'ai beaucoup apris a trouver moi
-          même le travail a faire et de juger quel travail est plus important a
+          même le travail a faire et de juger le quel des travaux  est plus important a
           être réaliser en premier, mais sa ma également apris a apprendre de
           génerer une maintenance préventive au quotidien et d'être sur que les
           machines qui démarre le lundi tiendrons le coup jusqu'au vendredi.
@@ -40,15 +40,15 @@ const Professionel = () => {
         </button>
         <p id="nextBoehliApp">
           J'ai également eux l'occasion de réaliser de la maintenance curative
-          et programmée a assistée a des réunion de mise en place de maintenance
+          et a assistée a des réunion de mise en place de maintenance
           curative afin de prévoir le délais qu'il nous faudras avec une marge
           suplémentaire en cas de soucit pendant la maintenance. J'ai également
           eux la chance d'assister a l'aggrandisement de l'usine et la mise en
-          place d'équipement neuf et a la mise en ligne de nouvelle ligne de
+          place d'équipements neuf et a la mise en ligne de nouvelle ligne de
           production. j'ai également beaucoup assister au directeur d'usine et a
           l'automatisien pour faire de l'automatisme de machine que sa soit pour
-          améliorer les programme ou réaliser des nouveau programme pour des
-          machine qui n'etais pas automatiser au part avant. J'ai également put
+          améliorer les programmes ou réaliser des nouveaux programmes pour des
+          machines qui n'etais pas automatiser au part avant. J'ai également put
           mettre en place tous le système de vidéo surveillance du magasin
           d'usine et du musée qui a était mit en place lors de l'aggrandisement
           de l'usine.
@@ -61,13 +61,13 @@ const Professionel = () => {
         <p>
           Premier réel job pour moi en tant qu'intérimaire, j'ai apris a gérer
           un magasin a faire en sorte que mon stock ne soit jamais vide et de
-          toujours avoir a disposition le matériel dont les ouvrier de Alstom
+          toujours avoir a disposition le matériel dont les ouvriers de Alstom
           avait bessoin. Parce que oui géodis est située sur le site Alstom et
-          ma tache principale etait de préparer les commandes afin de les livrée
-          le matin dans les différent bâtiment et les différents poste. J'ai du
+          ma tache principale etait de préparer les commandes afin de les livrées
+          le matin dans les différents bâtiments et les différents postes. J'ai du
           être 100% autonome nous étions deux livreur moi qui s'occuper du
-          matériel premier et mon collegue de la viserie, le directeur d'usine
-          voyager entre 3 site geodis alstom ce qui fessait que je devait être
+          matériel premier et mon collegue de la viserie, le directeur du site
+          voyager entre 3 sites Geodis Alstom ce qui fessait que je devait être
           autonome et ne pouvais pas toujours demander a mon supérieur comment
           faire ou quoi faire.
         </p>
@@ -77,9 +77,9 @@ const Professionel = () => {
         <h3>Boehli | Technicien de production</h3>
         <h4>2019</h4>
         <p>
-          suite a des soucit de snaté et différente hospitalisation je n'est pas
+          suite a des soucit de santé et différente hospitalisation je n'est pas
           put travailler pendnat une certaine période et boehli ma offert une
-          place de technicien de production apres mes hospitalisation afin de
+          place de technicien de production apres mes hospitalisations afin de
           pouvoir me remttre dans un rythme de travaille et pouvoir preparer mes
           arrière pour pouvoir recommencer mes etudes "BAC PRO TMSEC".
         </p>
@@ -95,7 +95,7 @@ const Professionel = () => {
           <p>
             Ayant du mal pour le travail de nuit apres mes hospitalisation j'ai
             quitter boehli pour faire de la production chez Alpi jusqu'a
-            commencer mon BAC PRO TMSEC, une mission d'interim qui etait intense
+            commencer mon BAC PRO TMSEC, une mission d'interimaire qui etait intense
             et dans la quel je devais avoir une cadence a tenir tous les jours
             avec un travail de minusie en même temps.
           </p>
@@ -122,7 +122,7 @@ const Professionel = () => {
           <p>
             Une alternance que j'ai effectuer durant la première année de mon
             BTS MS, j'ai décider de démissioner apres casiment un an car le
-            domaine m'interesser de moin en moin et cela fessait maintenant 15
+            domaine m'interesse de moin en moin et cela fessait maintenant 15
             mois que je mettais lancer dans le développement web et je voulais
             pérsister dans ce domaine pouvoir me concentrée dans le domaine et
             dans mes formations.
@@ -133,7 +133,7 @@ const Professionel = () => {
           <p id="nextIbag">
             J'ai eux l'occasion d'avoir un projet a réaliser ou j'ai du établire
             une liste de matériel programmer des automate faire une 3D de base.
-            J'ai du installer un ban d'essaie pour les broche électro-mécanique,
+            J'ai du installer un banc d'essaie pour les broches électro-mécanique,
             j'ai put mettre en place tous l'electrique, hydraulique et
             pneumatique du banc et réaliser tous les shéma pour une future
             maintenance. J'ai travailler en autonomie sur ce projet mais j'ai

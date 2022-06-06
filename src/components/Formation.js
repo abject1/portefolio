@@ -12,9 +12,9 @@ const Formation = () => {
         <h4>2015-2018</h4>
         <h6>Non obtenue</h6>
         <p>
-          3 ans de formation dans le domaine de l'électronique industrielle.
-          J'ai pu apprendre beaucoup de chose en lien avec l'électricitée
-          géneral et la programmation de machine industrielle.
+        3 ans de formation dans le domaine de l'électronique industrielle.
+        J'ai pu apprendre beaucoup de choses en lien avec l'électricité
+        général et la programmation de machine industrielle.
         </p>
       </div>
       <div className="underlineFormation"></div>
@@ -23,8 +23,8 @@ const Formation = () => {
         <h4>2020-2021</h4>
         <h6>Obtenue avec mension assez bien</h6>
         <p>
-          1 an de formation part le gretta et pôle emplois. J'ai pu apprendre
-          diverse chose sur le monde des énergie chaude et froide.
+          1 an de formation par le Greta et pôle emplois. J'ai pu apprendre
+          diverse chose sur le monde des énergies chaudes et froides.
         </p>
       </div>
       <div className="underlineFormation"></div>
@@ -33,10 +33,10 @@ const Formation = () => {
         <h4>2021</h4>
         <h6>Obtenue</h6>
         <p>
-          formation autour de HTML & CSS j'ai pu apprendre les base de ce
-          language de balisage et de style, j'ai pu réaliser un premier
-          portefolio a la fin de cette formation. On aborde également les bases
-          de Sass.
+        formation autour de HTML&CSS j'ai pu apprendre les bases de ce
+        langage de balisage et de style, j'ai pu réaliser un premier
+        porte-folio à la fin de cette formation. On aborde également les bases
+        de Sass.
         </p>
       </div>
       <button className="btn m1" onClick={() => seenNext()}>
@@ -50,8 +50,8 @@ const Formation = () => {
           <h6>En cours</h6>
           <p>
             Formation JavaScript autour du quel j'apprend beaucoup de chose sur
-            JavaScript que pour moi ressemble au language LUA que j'ai utiliser
-            pendant 3 ans de part les fonction, les variables.
+            JavaScript, qui pour moi ressemble au langage LUA que j'ai utilisé
+            pendant 3 ans de par les fonctions, les variables.
           </p>
         </div>
         <div className="underlineFormation"></div>
@@ -61,7 +61,7 @@ const Formation = () => {
           <h6>Obtenue</h6>
           <p>
             Formation JavaScript que personnellement je n'ai pas apprécier et
-            que avec la quel je n'est pas apris grand chose mais sa ma permis de
+            avec la quel je n'est pas apris grand chose mais sa ma permis de
             développer une forte personnaliter dans la recherche afin de
             comprendre la formation.
           </p>
@@ -73,10 +73,10 @@ const Formation = () => {
           <h6>En cours</h6>
           <p>
             Formation Linux et Bash sur la quel j'apprend a utiliser
-            l'environement de travail Linux Ubunutu, je ne l'utilise pas
+            l'environement de travail Linux Ubuntu, je ne l'utilise pas
             personnellement je reste un habituer a Windows même si j'avoue que
             Linux et bien plus performant et pratique a l'utilisation, cela me
-            permet tous de même de l'utiliser de plus en plus afin d'étre
+            permet tous de même de l'utilisé de plus en plus afin d'étre
             familiariser pour l'utilisation en entreprise de Linux.
           </p>
         </div>
@@ -86,14 +86,14 @@ const Formation = () => {
           <h4>2021-2022</h4>
           <h6>Obtenue</h6>
           <p>
-            Formation complete afin d'apprendre a développer ses propre site
+            Formation complete afin d'apprendre a développer mes propre site
             WEB, une formation compléte qui ma appris beaucoup malgré qu'elle
-            commence a être ancienne et qu'elle n'est pas renouvelle. La
+            commence a être ancienne et qu'elle n'est pas renouvellé. La
             formation commence part abordée HTML, CSS et le framework Bootstrap.
             Ensuite elle aborde Javascript, ajax et jquery une partie qui ma
             permis de faire croitre mes connaissance dans JavaScript même si
             j'avais un peu de mal avec la version JS qui n'était plus exactement
-            pareil a celle actuel. On a touche également un peu au backend avec
+            pareil a celle actuel. On touche également un peu au back-end avec
             du PHP et du SQL j'ai eux un peu de mal cette partie de la formation
             est très rapide et je suis actuellement plus dans une pérceverance
             dans le front-end. On a fini part utiliser un petit peu le CMD
@@ -118,7 +118,7 @@ const Formation = () => {
           <h6>En cours</h6>
           <p>
             J'ai découvert From Scratch sur youtube en voulant poffinée mon JS
-            et commencer a apprendre React, après avoir suivie c'est tuto
+            et commencer a apprendre React, après avoir suivie ses tutos
             gratuit sur youtube j'ai décider d'acheter sa formation complete qui
             touche HTML, CSS, GitHub, SEO, Sass, JS et React.
           </p>

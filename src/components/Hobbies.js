@@ -11,8 +11,8 @@ const Hobbies = () => {
         <h2>La moto</h2>
         <p>
           Née dans une famille de motard j'ai était piquer a l'âge de 3 ans et
-          demi quand mon père ma ramener ma piwi50, j'adore faire des balade en
-          moto mais également les entretenir, plus jeune j'adorer traffiquer mes
+          demi quand mon père ma ramener ma piwi50, j'adore faire des balades en
+          moto mais également les entretenires, plus jeune j'adorer traffiquer mes
           50 et 125 avec mon père jusqu'a pas d'heure mais maintenant que j'ai
           l'âge de rouler des gros cube je ne passe plus de temps a les
           traffiquer mais je passe plus de temps a les rouler.
@@ -46,9 +46,9 @@ const Hobbies = () => {
         <div className="microConception">
           <h2>Micro conception</h2>
           <p>
-            J'adore l'electronique j'ai toujours aimer bidouiller des petit truc
+            J'adore l'electronique j'ai toujours aimé bidouiller des petits trucs
             je me suis offert une imprimante 3D et une graveuse CNC pour faire
-            des impression et des PCB j'adore fabriquer des petit gadjette je me
+            des impressions et des PCB j'adore fabriquer des petits gadjettes je me
             suis fait un vrai atelier de micro conception avec le temps.
           </p>
         </div>
@@ -57,8 +57,8 @@ const Hobbies = () => {
           <h2>DEV serveur de jeux</h2>
           <p>
             J'ai découvert ma passion pour le développement web et l'envie de
-            travailler dans ce domaine en commencant a développer des serveur de
-            jeux pour GTA V, des map pour Farming Simulator et des mods pour
+            travailler dans ce domaine en commencant a développer des serveurs de
+            jeux pour GTA V, des mappings pour Farming Simulator et des mods pour
             Minecraft, fondateur de plusieurs serveur depuis plus de 5 ans je
             développe encore des serveur GTA pour des personnes qui ne sont pas
             intéresser par ce monde, je suis également encore fondateur d'un
