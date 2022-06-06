@@ -5,7 +5,7 @@ const Competences = () => {
     <div className="competences">
       <h1>Soft Skills</h1>
       <div className="htmlCss">
-        <h2>HtML & CSS & SASS</h2>
+        <h2>HTML & CSS & SASS</h2>
         <div className="underlineTitleCompetences"></div>
         <div className="barSkill">
           <div className="barSkillProgressHtml"></div>
