@@ -20,7 +20,13 @@
 
 }
 
-@media (min-width: 426px) {
+@media (min-width: 375px) {
+    .upHeader {
+        margin: 0 5rem;
+    }
+}
+
+@media (min-width: 425px) {
     .header {
         img {
             width: 22%;
@@ -29,7 +35,10 @@
 
 }
 
-@media (min-width: 769px) {
+@media (min-width: 768px) {
+    .upHeader {
+        margin: 0 15rem;
+    }
     .header {
         img {
             width: 20%;
@@ -37,10 +46,25 @@
     }
 }
 
-@media (min-width: 1025px) {
+@media (min-width: 1024px) {
+    .upHeader {
+        margin: 0 23rem;
+    }
     .header {
         img {
             width: 18%;
         }
+    }
+}
+
+@media (min-width: 1440px) {
+    .upHeader {
+        margin: 0 35rem;
+    }
+}
+
+@media (min-width: 2560px) {
+    .upHeader {
+        margin: 0 70rem;
     }
 }
