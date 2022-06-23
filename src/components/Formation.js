@@ -12,9 +12,9 @@ const Formation = () => {
         <h4>2015-2018</h4>
         <h6>Non obtenue</h6>
         <p>
-        3 ans de formation dans le domaine de l'électronique industrielle.
-        J'ai pu apprendre beaucoup de choses en lien avec l'électricité
-        général et la programmation de machine industrielle.
+          3 ans de formation dans le domaine de l'électronique industrielle.
+          J'ai pu apprendre beaucoup de choses en lien avec l'électricité
+          général et la programmation de machine industrielle.
         </p>
       </div>
       <div className="underlineFormation"></div>
@@ -33,10 +33,9 @@ const Formation = () => {
         <h4>2021</h4>
         <h6>Obtenue</h6>
         <p>
-        formation autour de HTML&CSS j'ai pu apprendre les bases de ce
-        langage de balisage et de style, j'ai pu réaliser un premier
-        porte-folio à la fin de cette formation. On aborde également les bases
-        de Sass.
+          formation autour de HTML&CSS j'ai pu apprendre les bases de ce langage
+          de balisage et de style, j'ai pu réaliser un premier porte-folio à la
+          fin de cette formation. On aborde également les bases de Sass.
         </p>
       </div>
       <button className="btn m1" onClick={() => seenNext()}>
@@ -60,9 +59,9 @@ const Formation = () => {
           <h4>2021</h4>
           <h6>Obtenue</h6>
           <p>
-            Formation JavaScript que personnellement je n'ai pas apprécier et
-            avec la quel je n'est pas apris grand chose mais sa ma permis de
-            développer une forte personnaliter dans la recherche afin de
+            Formation JavaScript (que personnellement je n'ai pas apprécié et
+            avec laquelle je n'ai pas appris suffisamment mais) qui m’a permis
+            de développer une forte personnalité dans la recherche afin de
             comprendre la formation.
           </p>
         </div>
@@ -72,12 +71,14 @@ const Formation = () => {
           <h4>2021-2022</h4>
           <h6>En cours</h6>
           <p>
-            Formation Linux et Bash sur la quel j'apprend a utiliser
-            l'environement de travail Linux Ubuntu, je ne l'utilise pas
-            personnellement je reste un habituer a Windows même si j'avoue que
-            Linux et bien plus performant et pratique a l'utilisation, cela me
-            permet tous de même de l'utilisé de plus en plus afin d'étre
-            familiariser pour l'utilisation en entreprise de Linux.
+            Formation Linux et Bash sur laquelle j'apprends à utiliser
+            l'environnement de travail Linux Ubuntu et qui me permet de me
+            familiariser avec son application en entreprise l'utilisant (je ne
+            l'utilise pas personnellement et je reste habitué à Windows même si
+            je dois admettre que Linux et bien plus performant et pratique à
+            l'utilisation, cela me permet tout de même de l'utiliser de plus en
+            plus afin d'être familiarisé pour l'utilisation en entreprise de
+            Linux.)
           </p>
         </div>
         <div className="underlineFormation"></div>
@@ -86,18 +87,19 @@ const Formation = () => {
           <h4>2021-2022</h4>
           <h6>Obtenue</h6>
           <p>
-            Formation complete afin d'apprendre a développer mes propre site
-            WEB, une formation compléte qui ma appris beaucoup malgré qu'elle
-            commence a être ancienne et qu'elle n'est pas renouvellé. La
-            formation commence part abordée HTML, CSS et le framework Bootstrap.
-            Ensuite elle aborde Javascript, ajax et jquery une partie qui ma
-            permis de faire croitre mes connaissance dans JavaScript même si
-            j'avais un peu de mal avec la version JS qui n'était plus exactement
-            pareil a celle actuel. On touche également un peu au back-end avec
-            du PHP et du SQL j'ai eux un peu de mal cette partie de la formation
-            est très rapide et je suis actuellement plus dans une pérceverance
-            dans le front-end. On a fini part utiliser un petit peu le CMD
-            WordPress.
+            Formation complète (afin d'apprendre à développer ses propres)
+            concernant l'élaboration de sites WEB, interessante malgré son
+            ancienneté (HTML, CSS, Framework Bootstrap? Javascript? Ajax,
+            jQuery, backend avec du PHP et du SQL et un peu de CMD Workpress
+            (une formation complète qui m’a appris beaucoup malgré le fait
+            qu'elle commence à être ancienne). La formation commence par aborder
+            le HTML, le CSS et le Framework Bootstrap. Ensuite elle aborde
+            Javascript, ajax et jQuery, une partie qui m’a permis de faire
+            croitre mes connaissances dans JavaScript même si j'avais un peu
+            plus de mal avec la version JS qui n'était plus exactement le même.
+            On a touche également un peu au backend avec du PHP et du SQL j'ai
+            eu un peu de mal cette partie de la formation était pour moi trop.
+            On a fini par utiliser aussi un petit peu le CMD WordPress.)
           </p>
         </div>
         <div className="underlineFormation"></div>
@@ -118,9 +120,9 @@ const Formation = () => {
           <h6>En cours</h6>
           <p>
             J'ai découvert From Scratch sur youtube en voulant poffinée mon JS
-            et commencer a apprendre React, après avoir suivie ses tutos
-            gratuit sur youtube j'ai décider d'acheter sa formation complete qui
-            touche HTML, CSS, GitHub, SEO, Sass, JS et React.
+            et commencer a apprendre React, après avoir suivie ses tutos gratuit
+            sur youtube j'ai décider d'acheter sa formation complete qui touche
+            HTML, CSS, GitHub, SEO, Sass, JS et React.
           </p>
         </div>
       </div>
